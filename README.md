@@ -38,13 +38,14 @@ Cyberbullying has become a major concern on social media and online platforms. M
 
 ---
 
-##👨‍🎓 Author
+## 👨‍🎓 Author
 
 Shashank
 Department of Artificial Intelligence & Machine Learning
 
-##📝 Disclaimer
+## 📝 Disclaimer
 
 This project is developed for academic and learning purposes only. The predictions should not be considered as professional or legal advice.
 
 ## 📁 Project Structure
+
