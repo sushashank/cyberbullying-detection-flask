@@ -1,0 +1,135 @@
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\clean.py', reloading
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:24] "GET /static/style.css HTTP/1.1" 200 -
+ERROR:root:Error during prediction: Model or vectorizer not loaded
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error during prediction: Model or vectorizer not loaded
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2025 10:51:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error loading model or vectorizer: invalid load key, '{'.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 408-444-800
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\susha\\PycharmProjects\\Majorprojectskillforge\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
